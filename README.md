@@ -38,7 +38,6 @@
     <div id="heygen-streaming-embed">
         <div id="heygen-streaming-container"></div>
     </div>
-
     <script>
         !function(window){
             const host="https://app.heygen.com",
