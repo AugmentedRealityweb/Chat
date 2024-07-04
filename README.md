@@ -15,9 +15,9 @@
         }
         #heygen-streaming-embed {
             z-index: 9999;
-            width: 160%;
-            max-width: 800px;
-            height: auto;
+            width: 100%;
+            max-width: 600px;
+            height: 600px;
             border-radius: 10px;
             border: 2px solid #fff;
             box-shadow: 0px 8px 24px 0px rgba(0, 0, 0, 0.12);
